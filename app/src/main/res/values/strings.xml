@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Assignment-1-Android</string>
+    <string name="loginImage">LOGIN</string>
+    <string name="welcome_to_hotel_app">Welcome! to Hotel App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_img">sign_up_img</string>
+    <string name="first_name">First Name</string>
+    <string name="hint">hint</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="LoginImage">LoginImage</string>
+    <string name="demo_text">Demo Text</string>
+    <string name="cross_image">cross</string>
+    <string name="check_image">check</string>
+    <string name="loading">Loading...</string>
+    <string name="logout">Logout</string>
+    <string name="hotel_details">Hotel Details</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="search">Search</string>
+    <string name="full_name">Full Name :</string>
+    <string name="short_name">Short Name :</string>
+    <string name="display_name">Display Name :</string>
+    <string name="primary_name">Primary Name :</string>
+    <string name="secondary_name">Secondary Name :</string>
+    <string name="last_search_name">Last Search Name :</string>
+    <string name="country">Country :</string>
+</resources>
